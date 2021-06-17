@@ -7,3 +7,8 @@ json
 tkinter
 webbrowser
 
+
+use ./python final.py 
+to execute
+
+
