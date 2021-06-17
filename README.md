@@ -9,7 +9,7 @@ python imports :
 ---
 
 use
-`< ./python final.py >`
+` ./python final.py `
 to run program
 
 ---
