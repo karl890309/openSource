@@ -9,8 +9,6 @@ webbrowser
 
 ---
 
-execute
-
 use
 ```
 ./python final.py
