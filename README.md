@@ -8,7 +8,7 @@ tkinter
 webbrowser
 
 
-use ./python final.py \n
+use '''./python final.py'''
 to execute
 
 
