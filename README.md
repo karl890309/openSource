@@ -2,13 +2,13 @@
 
 * imports :
 
-...requests
+   requests  
 
-...json
+   json  
 
-...tkinter
+   tkinter  
 
-...webbrowser
+   webbrowser  
 
 ---
 
