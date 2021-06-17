@@ -9,7 +9,7 @@ webbrowser
 
 
 
-#execute
+*execute
 
 
 use
