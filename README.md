@@ -1,10 +1,10 @@
 # openSource Final Project
 
 python imports :  
-&nbsp json  
-&nbsp tkinter  
-&nbsp requests  
-&nbsp webbrowser  
+* json  
+* tkinter  
+* requests  
+* webbrowser  
 
 ---
 
