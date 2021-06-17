@@ -1,7 +1,6 @@
 # openSource Final Project
 
 python imports :  
-* 
    json  
    tkinter  
    requests  
@@ -10,9 +9,9 @@ python imports :
 ---
 
 use
-```
+`<
 ./python final.py
-```
+>`
 to run program
 
 ---
