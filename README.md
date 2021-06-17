@@ -30,7 +30,7 @@ to run program
 send requests to CWB open API
 get data from CWB open API requests
 for each earthquake in data {
- create Button from earthquake detail
+  create Button from earthquake detail
 }
 
 ```
