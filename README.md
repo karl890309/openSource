@@ -8,7 +8,7 @@ tkinter
 webbrowser
 
 #execute
-\newline
+\\
 use
 ```
 ./python final.py
