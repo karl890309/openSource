@@ -1,6 +1,6 @@
 # openSource Final Project
 
-* imports :  
+python imports :  
    json  
    tkinter  
    requests  
