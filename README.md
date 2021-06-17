@@ -7,11 +7,11 @@ json
 tkinter
 webbrowser
 
-
+#execute
 use 
 ```
 ./python final.py
 ```
-to execute
+to run program
 
 
