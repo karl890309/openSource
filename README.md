@@ -34,3 +34,24 @@ for each earthquake in data {
 }
 
 ```
+
+---
+
+4. Results:
+
+
+
+
+
+---
+
+
+5. Reference:
+
+https://www.youtube.com/watch?v=0WafQCaok6g  
+https://opendata.cwb.gov.tw/index  
+
+
+
+
+
