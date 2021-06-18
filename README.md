@@ -39,9 +39,9 @@ for each earthquake in data {
 
 4. Results:
 
-https://scweb.cwb.gov.tw/webdata/OLDEQ/202106/2021061423445240045_H.png
 
-
+![alt 文字](https://scweb.cwb.gov.tw/webdata/OLDEQ/202106/2021061423445240045_H.png)
+![alt 文字](https://github.com/karl890309/openSource/blob/main/1.jpg)
 
 
 
