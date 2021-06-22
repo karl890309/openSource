@@ -15,7 +15,7 @@ system windows
 
 use
 ` ./python final.py `
-to run program
+to run program in cmd
 
 ---
 
